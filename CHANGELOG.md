@@ -2,7 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
-## [Unreleased]
+## [v0.3.0] - _2024-07-24_
+
+### Changed
+
+- Update `README.md`
+
+## [v0.2.0] - _2024-07-23_
 
 ### Added
 
@@ -22,5 +28,6 @@ All notable changes to this project will be documented in this file.
 
 - Update `README.md`
 
-[Unreleased]: https://github.com/trieunvt/git-flow-workflow/compare/v0.1.0...HEAD
+[v0.3.0]: https://github.com/trieunvt/git-flow-workflow/compare/v0.2.0...v0.3.0
+[v0.2.0]: https://github.com/trieunvt/git-flow-workflow/compare/v0.1.0...v0.2.0
 [v0.1.0]: https://github.com/trieunvt/git-flow-workflow/releases/tag/v0.1.0
